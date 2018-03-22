@@ -2,10 +2,21 @@
 layout : "wrapper"
 
 ---
+{% for post in site.posts %}
+    <li><a style="{% if post.author == 'Julien' %}color:red;{% endif %}" href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+{% if page.author == "Julien" %}
+    this is a blog about {{ page.title }}
+{% elsif page.title == "New Zealand" %}
+    this is a blog about New zealand
+{% else %}
+    I don't know what is about in this blog
+{% endif %}
 
 
-<h2>{{page.title}}</h2>
-<h5>Ecrit par :{{page.author}}</h5>
+<h2>{{ page.title }}</h2>
+<h5>Ecrit par :{{ page.author }}</h5>
 <hr>
 
 {{content}}

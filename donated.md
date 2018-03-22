@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Donate
+title: "Donate"
 ---
 
 Donate to our site.
