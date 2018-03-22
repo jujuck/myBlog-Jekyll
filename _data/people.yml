@@ -1,0 +1,8 @@
+ - name: "Julien"
+   occupations: "Arinfo student"
+
+ - name: "Philippe"
+   occupations: "Arinfo teacher"
+
+ - name: "Vincent"
+   occupations: "Arinfo director"

@@ -40,6 +40,11 @@ defaults:
         layout: "post"
         permalink: "/:categories/:title"
         author: "Julien"
+   -
+    scope:
+      path: "assets/images"
+    values:
+       image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
