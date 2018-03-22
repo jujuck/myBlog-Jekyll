@@ -1,7 +1,7 @@
 ---
-title:  "My travelling blog"
+title:  "Australie"
 date:   2018-03-22 08:08:00 +0100
-categories: jekyll voyages
+categories:  voyages
 ---
 C'est le contenu de mon blog... Pleins de test et de paramétrages
 

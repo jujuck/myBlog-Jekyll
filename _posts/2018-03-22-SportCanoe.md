@@ -1,7 +1,7 @@
 ---
-title:  "Sport blog"
+title: "Canoe"
 date:   2018-03-22 08:08:00 +0100
-categories: jekyll sport
+categories: sport
 ---
 C'est le contenu de mon blog... Pleins de test et de paramétrages
 

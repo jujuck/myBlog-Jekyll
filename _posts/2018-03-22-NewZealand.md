@@ -1,7 +1,8 @@
 ---
-title:  "My travelling blog"
+title:  "New Zealand"
 date:   2018-03-21 08:08:00 +0100
-categories: jekyll voyages
+categories:  voyages
+
 ---
 C'est le contenu de mon blog... Pleins de test et de paramétrages
 
