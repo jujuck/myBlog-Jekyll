@@ -1,5 +1,5 @@
 ---
-layout: post
+layout : girafe
 title:  "Welcome to Jekyll!"
 date:   2018-03-21 08:08:00 +0100
 categories: jekyll update
